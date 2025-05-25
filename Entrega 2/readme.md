@@ -1,6 +1,6 @@
 # UdeA AI 4 ENG 2025-1 – Pruebas Saber Pro Colombia
 
-## Entrega 02 – Limpieza y preprocesdo de los Datos
+## Entrega 02 – Limpieza y preprocesado de los Datos
 
 ### Integrantes del equipo
 
