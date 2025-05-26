@@ -13,3 +13,4 @@
 En esta segunda entrega, se realizó el **preprocesamiento** de `train.csv` con el objetivo de preparar los datos para su uso en modelos predictivos.
 
 ### Link video
+https://youtu.be/bPqZrwQUEuk
