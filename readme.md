@@ -8,4 +8,4 @@
 
 ### Link video Entrega 2 corregido
 
-https://youtu.be/bPqZrwQUEuk
+https://youtu.be/z5qcDzGXoYE
