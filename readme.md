@@ -6,6 +6,6 @@
 | ---------------------- | ---------- | ------------------------ |
 | Luisa Vargas Sepulveda | 1000875055 | Ingeniería de Materiales |
 
-### Link video Entrega 2
+### Link video Entrega 2 corregido
 
 https://youtu.be/bPqZrwQUEuk
